@@ -1,5 +1,5 @@
 # Mini-Project-04
-# Marks-Adding
+# `Marks Adding`
 ## Problem Statement
 Input file contains Roll numbers and marks.
 
